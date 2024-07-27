@@ -1,4 +1,4 @@
-# prediction
+# forecasters
 
 Anyone could join this community and share what their prediction on future event, no mater you use math, computer science, mediation or other methods. 
 We are looking for high accurate rate predication person.
