@@ -6,3 +6,4 @@ We are looking for high accurate rate predication person.
 ## Reward
 
 $1mm Reward for person who can predict some future events within certain giving topics over 90% acurrate rate.
+It shouldn't be something common nature role, eg Sun will raise from east by tomorrow.
