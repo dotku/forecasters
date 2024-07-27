@@ -22,6 +22,8 @@ The prediction shouldn't be something common nature role, eg Sun will raise from
 2. Kaggle
 
 
-## 1mm Fund Provider
+## Fund Providers
 
-> The One Million Dollar Paranormal Challenge was an offer by the James Randi Educational Foundation (JREF) 
+* James Randi Educational Foundation (JREF)
+
+> Contact us by weijingjaylin+forcasters@gmail.com to be our fund providers
