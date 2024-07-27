@@ -20,3 +20,8 @@ The prediction shouldn't be something common nature role, eg Sun will raise from
 
 1. Hugging Face
 2. Kaggle
+
+
+## 1mm Fund Provider
+
+> The One Million Dollar Paranormal Challenge was an offer by the James Randi Educational Foundation (JREF) 
